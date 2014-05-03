@@ -17,7 +17,7 @@ while ($row=mysql_fetch_array($query))
     $gambar=$row['gambar'];
 ?>
 <tr>
-    <td colspan=2><img border="0" src="gambar/panah.gif"/><i>BeritaOke.Com</i><b> - <?php echo $judul; ?><b></td>
+    <td colspan=2><img border="0" src="gambar/panah.gif"/><i>SeputarBerita.Com</i><b> - <?php echo $judul; ?><b></td>
 </tr>
 <tr>
     <td rowspan=2"><center><img width=170 height=170 src="gambar/<?php echo $gambar; ?>"/></center></td>
