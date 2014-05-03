@@ -11,7 +11,7 @@
 <body bgcolor=#FFCC99>
 <table width=800 align=center bgcolor=#FF9900>
 <tr>
-    <td colspan="2" width=500><font size=30>BeritaOke.com</font></td>
+    <td colspan="2" width=500><font size=30>SeputarBerita.com</font></td>
     <td><?php include "status.php" ?></td>
 </tr>
 <tr>
@@ -20,14 +20,14 @@
 </table>
 <table width=800 align=center bgcolor=&FF8901>
 <tr>
-    <td>Bina Sarana Informatika</td>
+    <td>Informatika A 2011</td>
     <td><a href="index.php">HOME</td>
     <td><a href="index.php?page=isi_berita">TULIS BERITA</td>
 </tr>
 </table>
 <table width=800 align=center>
 <tr>
-    <td bgcolor=#CCCCCC colspan=3><marquee>Selamat Datang di Website Pembelajaran BeritaOke.com. Selamat Menikmati Sajian Berita dari Kami. Semoga Bermanfaat ^^</marquee></td>
+    <td bgcolor=#CCCCCC colspan=3><marquee>Selamat Datang di Website Pembelajaran SeputarBerita.com. Selamat Menikmati Sajian Berita dari Kami. Semoga Bermanfaat ^^</marquee></td>
 </tr>
 <tr>
     <td width=200>&nbsp;</td>
