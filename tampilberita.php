@@ -25,7 +25,7 @@ while ($row=mysql_fetch_array($query))
 <tr>
     <td align=justify><?php echo $isi_berita;?><br><br></td>
 </tr>
-<tr bgcolor="#CCCCCC">
+<tr bgcolor="#blue">
     <td colspan="2" align=center>---www.beritaoke.com---</td>
 </tr>
 <?php
