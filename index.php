@@ -29,6 +29,7 @@
 <tr>
     <td bgcolor=#CCCCCC colspan=3><marquee>Selamat Datang di Website Pembelajaran SeputarBerita.com. Selamat Menikmati Sajian Berita dari Kami. Semoga Bermanfaat ^^</marquee></td>
 </tr>
+
 <tr>
     <td width=200>&nbsp;</td>
     <td width=50>&nbsp;</td>
